@@ -1,0 +1,35 @@
+body{
+    background-color: #dfdff9;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cursive;
+    color: #2c3e50;
+    font-weight: bold;
+    margin-bottom: 25px;
+
+}.Que{
+    font-size: 22px;
+    font-weight: 600;
+   font-family: serif;
+   color: #333;
+}
+.option{
+    font-family: system-ui;
+    font-weight: 400;
+    font-size: 19px;
+}
+#btn_submit{
+    border-radius: 18px;
+    color: white;
+    font-size: 30px;
+    padding: 16px;
+    background-color: rgb(1, 145, 1);
+    cursor: pointer;
+}
+#btn_submit:hover{
+    background-color: rgba(2, 100, 2, 0.399);
+
+}
