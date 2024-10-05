@@ -8,6 +8,7 @@ echo"Today is ".date("Y/m/d") . "<br>"
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Master</title>
     <link href="indexStyle.css" rel="stylesheet" type="text/css">
+    <form action = "process.php" method = "post">
 <body>
 <header>
 <h1>Welcome To Quiz Era !!</h1>
@@ -37,7 +38,7 @@ echo"Today is ".date("Y/m/d") . "<br>"
     <section>
         <center><a href = "#">
        <input type="submit" value="Register For Quiz" id="btn">
-    </center>
+    </center><
     </section>
 </footer>
 </body>
