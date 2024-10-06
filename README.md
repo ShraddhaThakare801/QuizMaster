@@ -36,7 +36,7 @@ Clone the repository to your local machine using Git:
 git clone
 https://github.com/ShraddhaThakare801/QuizMaster.git
 
-Step 2: Set Up a local server
+### Step 2: Set Up a local server
 To run the project, you need a local server environment like XAMPP, WAMP OR MAMP.
 1. Download and install: 
  XAMPP for windows. macOS, Linux.
@@ -53,7 +53,7 @@ To run the project, you need a local server environment like XAMPP, WAMP OR MAMP
  For WAMP: C:/wamp/www/QuizMaster/
  For MAMP: Applications/MAMP/htdocs/QuizMaster/
  
-Step 3: Run the project
+###Step 3: Run the project
 
  After setting up your local server: 
  1.Open your browser and go to: 
@@ -61,7 +61,7 @@ Step 3: Run the project
 
 2.The quiz page should load, allowing you to interact with the quiz and see the results.
 
-Usage
+## Usage
 Open the quiz page in browser.
 Answer the five multiple-choice questions by selecting one of the four options provided for each question.
 After answering all the questions, Click the submit button to see your results.
