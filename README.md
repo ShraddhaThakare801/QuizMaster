@@ -2,13 +2,11 @@
 **QuizMaster** is a simple web-based quiz application that allows users to answers multiple-choce questions and receive their score immediately.The project uses **HTML**, **CSS** and **PHP** to handle both the front-end design and server-side logic.
 
 ## Table of content
-- [Project Overview]
-(#project-overview)
+- [Project Overview](#project-overview)
 - [Features](#features)
-- [Technologies Used]
-(#technologies-used)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage] (#usage)
+- [Usage](#usage)
 
 ## Project Overview
 
